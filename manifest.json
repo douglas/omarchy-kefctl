@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.douglas.omarchy-kefctl",
+  "name": "Kefctl",
+  "version": "0.1.0",
+  "author": "Douglas Soares de Andrade",
+  "description": "Native KEF speaker controls powered by kefctl",
+  "kinds": ["bar-widget"],
+  "entryPoints": {
+    "barWidget": "Widget.qml"
+  },
+  "barWidget": {
+    "displayName": "Kefctl",
+    "description": "Native KEF speaker controls powered by kefctl",
+    "category": "Media",
+    "allowMultiple": false
+  },
+  "license": "MIT"
+}
