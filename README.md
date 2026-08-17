@@ -2,7 +2,7 @@
 
 Native KEF speaker controls powered by `kefctl`.
 
-![Kefctl controls](omarchy-kefctl.png)
+![Kefctl controls](preview.png)
 
 Left-click the bar icon to open native controls for speaker selection, volume,
 mute, and source. Right-click opens the full `kefctl` TUI for advanced
